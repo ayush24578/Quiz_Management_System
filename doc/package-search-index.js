@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"Quiz_Management_System","l":"DATABASE"},{"m":"Quiz_Management_System","l":"GUI"},{"m":"Quiz_Management_System","l":"logic"},{"m":"Quiz_Management_System","l":"models"}];updateSearchResults();
